@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545627246114",
+    "project_id": "rgmmdb-1bf1a",
+    "storage_bucket": "rgmmdb-1bf1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545627246114:android:c8bfb78261b5a7175e047b",
+        "android_client_info": {
+          "package_name": "com.hildebrand.rgmm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0f-7DyLjDUDKlom-8cRivCar09hiw9Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
