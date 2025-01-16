@@ -1,3 +1,3 @@
 # rgmm
 
-A new Flutter project.
+Project Tugas Besar Manajemen Projek dan Pemrograman Multiplatform
